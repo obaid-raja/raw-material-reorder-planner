@@ -1,0 +1,10 @@
+policy,material,stockout_weeks,fill_rate_pct,shortfall_t,orders,purchased_t,spend_usd,avg_price_paid_usd_t,avg_stock_t,avg_stock_value_usd,peak_storage_use_pct
+Reactive,Maize,9,97.5,570.2,16,21354.6,4376420.0,204.9,498.3,94935.2,61.4
+Reactive,Soybean meal,6,97.6,251.4,16,9621.0,4571203.2,475.1,263.5,118355.2,81.9
+Reactive,Wheat,7,97.6,99.3,16,3851.7,1109290.5,288.0,93.1,25087.1,58.2
+Rule of thumb,Maize,2,99.2,176.1,46,23000.0,4369045.0,190.0,262.2,50467.1,61.2
+Rule of thumb,Soybean meal,4,97.0,313.3,40,10067.4,4476222.6,444.6,205.6,91814.6,81.9
+Rule of thumb,Wheat,4,98.8,51.8,41,4100.0,1102982.0,269.0,68.1,18343.5,58.2
+Forecast-planned,Maize,2,99.5,107.7,46,23060.1,4380959.0,190.0,260.3,50156.7,61.2
+Forecast-planned,Soybean meal,2,99.1,90.5,42,10549.6,4685780.3,444.2,204.5,92291.5,81.9
+Forecast-planned,Wheat,3,99.4,25.0,42,4208.5,1131844.7,268.9,63.2,17042.9,58.2

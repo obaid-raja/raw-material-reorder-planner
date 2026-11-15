@@ -1,0 +1,13 @@
+material,model,sigma_t
+maize,naive,26.90447689061526
+maize,moving_average,27.386419402821872
+maize,seasonal_naive,29.77338422861782
+maize,holt_winters,17.16122885896778
+soybean_meal,naive,12.956000794059962
+soybean_meal,moving_average,12.771602813196264
+soybean_meal,seasonal_naive,14.33725595868709
+soybean_meal,holt_winters,8.117530331627519
+wheat,naive,5.445521148521132
+wheat,moving_average,5.073183363035927
+wheat,seasonal_naive,5.313987003696741
+wheat,holt_winters,3.125230345814611

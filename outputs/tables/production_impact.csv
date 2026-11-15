@@ -1,0 +1,4 @@
+policy,weeks_with_lost_output,lost_feed_t,lost_feed_bags_50kg,lost_pct_of_plan
+Reactive,16,2243.5,44869.5,5.4
+Rule of thumb,9,2025.9,40518.2,4.9
+Forecast-planned,7,816.4,16328.3,2.0

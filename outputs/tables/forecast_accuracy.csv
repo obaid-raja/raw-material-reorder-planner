@@ -1,0 +1,13 @@
+material,model,model_key,weekly_mape_pct,weekly_mae_t,bias_pct,lead_time_mape_pct
+Maize,Naive (last week),naive,9.07,39.73,0.73,6.47
+Maize,4-week moving average,moving_average,8.35,36.28,0.69,4.55
+Maize,Seasonal naive (same week last year),seasonal_naive,9.24,41.41,-6.95,7.29
+Maize,Holt-Winters (trend + seasonality),holt_winters,5.71,25.47,-1.86,3.47
+Soybean meal,Naive (last week),naive,8.96,17.75,0.69,5.87
+Soybean meal,4-week moving average,moving_average,8.51,16.72,0.65,5.33
+Soybean meal,Seasonal naive (same week last year),seasonal_naive,7.49,15.41,-5.75,6.11
+Soybean meal,Holt-Winters (trend + seasonality),holt_winters,5.72,11.57,-1.16,2.59
+Wheat,Naive (last week),naive,9.33,7.37,0.75,6.65
+Wheat,4-week moving average,moving_average,8.6,6.76,0.65,5.11
+Wheat,Seasonal naive (same week last year),seasonal_naive,8.38,6.92,-6.82,7.17
+Wheat,Holt-Winters (trend + seasonality),holt_winters,6.18,5.0,-1.0,3.55
