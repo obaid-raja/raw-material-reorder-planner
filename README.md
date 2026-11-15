@@ -4,7 +4,7 @@
 
 This project forecasts weekly use of maize, soybean meal and wheat, then turns the forecast into purchase orders that respect supplier lead times, minimum order sizes and storage capacity. It tests three buying policies on a year the models never saw (2024).
 
-**▶ [Try the interactive app](#)** · change lead times, storage space and service level and watch the plan respond.
+**▶ [Try the interactive app](https://raw-material-reorder-planner-rzestztljzvzswyghm5jbb.streamlit.app/)** · change lead times, storage space and service level and watch the plan respond.
 
 ## Results
 
