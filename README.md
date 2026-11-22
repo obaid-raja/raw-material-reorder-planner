@@ -74,4 +74,4 @@ tests/
 As an Operations Analyst at a poultry feed mill in 2025, I built Excel and Power BI tools that helped management move raw-material buying from reactive to planned. This project is a public rebuild of that problem in Python, with the pieces I would add next: measured forecast accuracy, safety stock, supplier minimums and storage capacity built into the ordering logic.
 
 ---
-Prices: World Bank Commodity Price Data (The Pink Sheet), CC BY 4.0. Built by [Obaid Ullah Masood Raja](https://www.linkedin.com/in/obaidullah-masood-raja-225795218).
+Prices: World Bank Commodity Price Data (The Pink Sheet), CC BY 4.0. Built by [Obaid Ullah Masood Raja](https://www.linkedin.com/in/raja-obaid).
